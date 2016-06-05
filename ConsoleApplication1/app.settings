@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ConsoleApplication1" GeneratedClassName="app">
+  <Profiles />
+  <Settings>
+    <Setting Name="ffmpegpath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\Utils\ffmpeg\</Value>
+    </Setting>
+    <Setting Name="mp3path" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\Users\Ivan\Music\youtube_download</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
