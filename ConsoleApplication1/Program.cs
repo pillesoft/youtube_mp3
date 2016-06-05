@@ -66,7 +66,6 @@ namespace ConsoleApplication1
         Console.WriteLine(audiofilename);
 
         DownloadAudio(video, audiofilename);
-        //audiofilename = @"c:\Users\Ivan\Music\Cserháti&Charlie - Száguldás, Porsche....aac";
 
         // if the audio is aac we have to convert it to mp3
         if (video.AudioType == AudioType.Aac)
